@@ -1,6 +1,6 @@
 # Project Euler
 
-This is pretty much about solving problems in different languages according to my mood. Obviously some problems are solved just for the sake for touching languages' features.
+This is pretty much about solving problems in different languages according to my mood. Obviously some problems are solved just for the sake of touching languages' features.
 
 ## Problem List
 
