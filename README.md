@@ -1,0 +1,9 @@
+# Project Euler
+
+This is pretty much about solving problems in different languages according to my mood. Obviously some problems are solved just for the sake for touching languages' features.
+
+## Problem List
+
+ * Problem 001: java
+ * Problem 002: java
+ * Problem 003: ruby
