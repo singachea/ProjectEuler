@@ -2,3 +2,7 @@
 java/.idea
 java/java.iml
 java/out
+
+scala/.idea
+scala/out
+scala/scala.iml

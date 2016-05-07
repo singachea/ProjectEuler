@@ -8,8 +8,7 @@ largest_prime = 2
 
 def prime?(number)
   return true if number == 2
-  return false if (3...number).step(2).any? { |num| number % num == 0 }
-  true
+  !(2...number).any? { |num| number % num == 0 }
 end
 
 def next_prime(cur)
