@@ -11,3 +11,4 @@ This is pretty much about solving problems in different languages according to m
  * Problem 005: javascript
  * Problem 006: python
  * Problem 007: scala
+ * Problem 008: elixir
