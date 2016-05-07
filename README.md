@@ -9,3 +9,4 @@ This is pretty much about solving problems in different languages according to m
  * Problem 003: ruby
  * Problem 004: elixir
  * Problem 005: javascript
+ * Problem 006: python
