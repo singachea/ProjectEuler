@@ -15,8 +15,28 @@
 #
 # What is the value of the first triangle number to have over five hundred divisors?
 
+# ---------------------------------------
+
+# This poor method is correct, but well... it never finishes
+# def factor_size(num)
+#   (1..num).select { |n| num % n == 0 }.size
+# end
+
 def factor_size(num)
-  (1..num).select { |n| num % n == 0 }.size
+  # num = (p1^a1) * (p2^a2) * ...
+  # size = (a1 + 1) * (a2 * 1) * ...
+
+  temp, index, d = num, 2, {}
+
+  while temp != 1
+    while temp % index == 0
+      temp = temp / index
+      d[index] = d[index].to_i + 1
+    end
+    index += 1
+  end
+
+  d.values.map{ |e| e + 1 }.reduce(:*) || 1
 end
 
 def first_min_div_num(min)
@@ -27,12 +47,13 @@ def first_min_div_num(min)
       sum += index
       y << sum
     end
+
+    # well.. you can use formula 1 + 2 + ... + n = n(n + 1)/2. But there is no difference here anyway
   end
 
   while factor_size(num = triangle.next) <= min; end
 
   num
 end
-
 
 puts "Solutions is #{first_min_div_num(500)}"

@@ -15,4 +15,4 @@ This is pretty much about solving problems in different languages according to m
  * Problem 009: [python](python/Problem009.py)
  * Problem 010: [scala](scala/src/Problem010.scala) (this problem is simple, but very interesting!)
  * Problem 011: [scala](scala/src/Problem011.scala)
- * Problem 012: [ruby](ruby/Problem012.rb)
+ * Problem 012: [ruby](ruby/Problem012.rb) (simple, but also interesting!)
