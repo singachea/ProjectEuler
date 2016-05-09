@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace csharp
 {
-	class MainClass
+	class Problem014
 	{
 		public static void Main (string[] args)
 		{
