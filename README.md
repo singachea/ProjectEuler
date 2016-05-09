@@ -17,3 +17,4 @@ This is pretty much about solving problems in different languages according to m
  * Problem 011: [scala](scala/src/Problem011.scala)
  * Problem 012: [ruby](ruby/Problem012.rb) (simple, but also interesting!)
  * Problem 013: [ruby](ruby/Problem013.rb)
+ * Problem 014: [C#](csharp/csharp/Problem014.cs)

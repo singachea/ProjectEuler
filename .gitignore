@@ -6,3 +6,10 @@ java/out
 scala/.idea
 scala/out
 scala/scala.iml
+
+csharp/csharp.sln
+csharp/csharp.userprefs
+csharp/csharp/bin
+csharp/csharp/obj
+csharp/csharp/Properties
+csharp/csharp/csharp.csproj
