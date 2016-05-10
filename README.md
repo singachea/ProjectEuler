@@ -21,3 +21,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 015](https://projecteuler.net/problem=015): [C#](csharp/csharp/Problem015.cs) | [elixir](elixir/Problem015.exs) (pretty simple, but it's frustrating to wait forever without memoization)
  * [Problem 016](https://projecteuler.net/problem=016): [python](python/Problem016.py)
  * [Problem 017](https://projecteuler.net/problem=017): [javascript](javascript/Problem017.js) (simple, but it's tedious)
+ * [Problem 018](https://projecteuler.net/problem=018): [javascript](javascript/Problem018.js) (more or less the same as Problem 15)
