@@ -25,3 +25,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 019](https://projecteuler.net/problem=019): [python](python/Problem019.py)
  * [Problem 020](https://projecteuler.net/problem=020): [ruby](ruby/Problem020.rb)
  * [Problem 021](https://projecteuler.net/problem=021): [javascript](javascript/Problem021.js)
+ * [Problem 022](https://projecteuler.net/problem=022): [elixir](elixir/Problem022/Problem022.exs)
