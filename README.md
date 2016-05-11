@@ -24,3 +24,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 018](https://projecteuler.net/problem=018): [javascript](javascript/Problem018.js) (more or less the same as Problem 15)
  * [Problem 019](https://projecteuler.net/problem=019): [python](python/Problem019.py)
  * [Problem 020](https://projecteuler.net/problem=020): [ruby](ruby/Problem020.rb)
+ * [Problem 021](https://projecteuler.net/problem=021): [javascript](javascript/Problem021.js)
