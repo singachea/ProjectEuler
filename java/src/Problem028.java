@@ -1,17 +1,17 @@
-//A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of 0, 1 and 2 are:
+//Starting with the number 1 and moving to the right in a clockwise direction a 5 by 5 spiral is formed as follows:
 //
-//        012   021   102   120   201   210
+//        21 22 23 24 25
+//        20  7  8  9 10
+//        19  6  1  2 11
+//        18  5  4  3 12
+//        17 16 15 14 13
 //
-//        What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
+//        It can be verified that the sum of the numbers on the diagonals is 101.
+//
+//        What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?
 
-
-import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Problem028 {
-    static int counter = 0;
-    static final int target = 1000000;
-
     public static void main(String[] args) {
         int n = 1001;
         int[][] matrix = new int[n][];
@@ -78,9 +78,6 @@ public class Problem028 {
         }
 
         return new int[]{nX, nY};
-
     }
-
-
 
 }
