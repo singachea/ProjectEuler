@@ -12,7 +12,7 @@ object Problem032 {
     // the goal is to find number a, b and c where a * b = c and they combine a string running from 1 to 9
     // first let make a <= b and thus a > 1 because if a = 1 then b = c where b is duplicate of c
     // second b < 5,000, otherwise c >= 10,000 that lead to combining string of 10 digits
-    // third c = a * b < 10,000 because max(a * b) = 99 * 999 < 10,000. thus a^2 < 10,000 => a < 100
+    // third c = a * b < 10,000 because max(a * b) = 9 * 999 < 10,000. thus a^2 < 10,000 => a < 100
 
     val numbers = for(a <- Range(2, 100); b <- Range(a, 5000) if a * b < 10000; if isPandigital(a, b, a * b, 9)) yield (a * b)
 
