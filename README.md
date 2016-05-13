@@ -35,3 +35,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 029](https://projecteuler.net/problem=029): [python](python/Problem029.py)
  * [Problem 030](https://projecteuler.net/problem=030): [python](python/Problem030.py)
  * [Problem 031](https://projecteuler.net/problem=031): [elixir](elixir/Problem031.exs)
+ * [Problem 032](https://projecteuler.net/problem=032): [scala](scala/src/Problem032.scala) (need some math to make cases small so that we can run!)
