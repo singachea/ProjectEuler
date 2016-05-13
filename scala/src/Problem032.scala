@@ -14,7 +14,7 @@ object Problem032 {
     // second b < 5,000, otherwise c >= 10,000 that lead to combining string of 10 digits
     // third c = a * b < 10,000 because max(a * b) = 9 * 999 < 10,000. thus a^2 < 10,000 => a < 100
 
-    val numbers = for(a <- Range(2, 100); b <- Range(a, 5000) if a * b < 10000; if isPandigital(a, b, a * b, 9)) yield (a * b)
+    val numbers = for(a <- Range(2, 100); b <- Range(a, (10000 / a) + 1) if isPandigital(a, b, a * b, 9)) yield (a * b)
 
     println(s"Solution is ${numbers.distinct.sum}")
 
