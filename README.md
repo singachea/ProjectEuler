@@ -32,3 +32,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 026](https://projecteuler.net/problem=026): [elixir](elixir/Problem022/Problem026.exs)
  * [Problem 027](https://projecteuler.net/problem=027): [scala](scala/src/Problem027.scala)
  * [Problem 028](https://projecteuler.net/problem=028): [java](java/src/Problem028.java)
+ * [Problem 029](https://projecteuler.net/problem=029): [python](python/Problem029.py)
