@@ -38,3 +38,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 032](https://projecteuler.net/problem=032): [scala](scala/src/Problem032.scala) (need some math to make cases small so that we can run!)
  * [Problem 033](https://projecteuler.net/problem=033): [C#](csharp/csharp/Problem033.cs)
  * [Problem 034](https://projecteuler.net/problem=034): [python](python/Problem034.py)
+ * [Problem 035](https://projecteuler.net/problem=035): [scala](scala/src/Problem035.scala) (surprised with performance of `IndexedSeq` vs `List` and some tricks to cut down from 80s to 3s)
