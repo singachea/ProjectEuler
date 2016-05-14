@@ -40,3 +40,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 034](https://projecteuler.net/problem=034): [python](python/Problem034.py)
  * [Problem 035](https://projecteuler.net/problem=035): [scala](scala/src/Problem035.scala) (surprised with performance of `IndexedSeq` vs `List` and some tricks to cut down from 80s to 3s)
  * [Problem 036](https://projecteuler.net/problem=036): [ruby](ruby/Problem036.rb)
+ * [Problem 037](https://projecteuler.net/problem=037): [scala](scala/src/Problem037.scala) 

@@ -24,7 +24,7 @@ object Problem035 {
     }
   }
 
-  
+
   def circularNumbers(num: Int): List[Int] = {
     var nums = num.toString.split("")
 
