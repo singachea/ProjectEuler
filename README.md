@@ -45,3 +45,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 039](https://projecteuler.net/problem=039): [C#](csharp/csharp/Problem039.cs)
  * [Problem 040](https://projecteuler.net/problem=040): [C#](csharp/csharp/Problem040.cs)
  * [Problem 041](https://projecteuler.net/problem=041): [java](java/src/Problem041.java)
+ * [Problem 042](https://projecteuler.net/problem=042): [elixir](elixir/Problem042/Problem042.exs)

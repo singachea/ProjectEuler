@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.stream.IntStream;
 
 public class Problem041 {
-    
+
     public static void main(String[] args) {
 
         int solution = IntStream.range(1, 10).filter(i -> {
