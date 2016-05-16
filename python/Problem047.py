@@ -15,7 +15,14 @@ def consecutive_numbers(length):
     n = 1
     while True:
         n += 1
-        pfs = [primeFactors(i) for i in range(n, n + 4)]
-        if [len(i) for i in pfs] == [length, length, length, length]:
-            if len(set(k for sublist in pfs for k in sublist)) == 4 * length:
+
+        if (not len(primeFactors(n)) == length) or (not len(primeFactors(n + 1)) == length):
+            continue # make thing slightly faster!
+
+        pfs = [primeFactors(i) for i in range(n, n + length)]
+
+        if all(len(i) == length for i in pfs):
+            if len(set(k for sublist in pfs for k in sublist)) == length * length:
                 return n
+
+print("Solution is ", consecutive_numbers(4))

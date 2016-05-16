@@ -50,3 +50,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 044](https://projecteuler.net/problem=044): [javascript](javascript/Problem044.js)
  * [Problem 045](https://projecteuler.net/problem=045): [javascript](javascript/Problem045.js)
  * [Problem 046](https://projecteuler.net/problem=046): [javascript](javascript/Problem046.js)
+ * [Problem 047](https://projecteuler.net/problem=047): [python](python/Problem047.py) (it works, but performance is not up to the standard! probably need to find a better way)
