@@ -49,3 +49,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 043](https://projecteuler.net/problem=043): [python](python/Problem043.py)
  * [Problem 044](https://projecteuler.net/problem=044): [javascript](javascript/Problem044.js)
  * [Problem 045](https://projecteuler.net/problem=045): [javascript](javascript/Problem045.js)
+ * [Problem 046](https://projecteuler.net/problem=046): [javascript](javascript/Problem046.js)
