@@ -47,3 +47,5 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 041](https://projecteuler.net/problem=041): [java](java/src/Problem041.java)
  * [Problem 042](https://projecteuler.net/problem=042): [elixir](elixir/Problem042/Problem042.exs)
  * [Problem 043](https://projecteuler.net/problem=043): [python](python/Problem043.py)
+ * [Problem 044](https://projecteuler.net/problem=044): [javascript](javascript/Problem044.js)
+ * [Problem 045](https://projecteuler.net/problem=045): [javascript](javascript/Problem045.js)
