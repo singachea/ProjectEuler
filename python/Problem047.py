@@ -29,7 +29,7 @@ def consecutive_numbers(length):
     while True:
         n += 1
 
-        if (not len(primeFactors(n)) == length) or (not len(primeFactors(n + 1)) == length):
+        if (not len(primeFactors(n)) == length):
             continue # make thing slightly faster!
 
         pfs = [primeFactors(i) for i in range(n, n + length)]
