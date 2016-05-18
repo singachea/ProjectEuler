@@ -54,3 +54,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 048](https://projecteuler.net/problem=048): [python](python/Problem048.py)
  * [Problem 049](https://projecteuler.net/problem=049): [java](java/src/Problem049.java)
  * [Problem 050](https://projecteuler.net/problem=050): [java](java/src/Problem050.java)
+ * [Problem 051](https://projecteuler.net/problem=051): [ruby](ruby/Problem051.rb) (interesting one!)
