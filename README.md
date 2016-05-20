@@ -60,3 +60,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 054](https://projecteuler.net/problem=054): [elixir](elixir/Problem054/Problem054.exs) (probably the most practical problem so far)
  * [Problem 055](https://projecteuler.net/problem=055): [elixir](elixir/Problem055.exs)
  * [Problem 056](https://projecteuler.net/problem=056): [elixir](elixir/Problem056.exs)
+ * [Problem 057](https://projecteuler.net/problem=057): [elixir](elixir/Problem057.exs) (Elixir makes the solution damn elegant for this one!!!)
