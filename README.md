@@ -58,4 +58,5 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 052](https://projecteuler.net/problem=052): [ruby](ruby/Problem052.rb)
  * [Problem 053](https://projecteuler.net/problem=053): [ruby](ruby/Problem053.rb)
  * [Problem 054](https://projecteuler.net/problem=054): [elixir](elixir/Problem054/Problem054.exs) (probably the most practical problem so far)
- * [Problem 055](https://projecteuler.net/problem=042): [elixir](elixir/Problem055.exs)
+ * [Problem 055](https://projecteuler.net/problem=055): [elixir](elixir/Problem055.exs)
+ * [Problem 056](https://projecteuler.net/problem=056): [elixir](elixir/Problem056.exs)
