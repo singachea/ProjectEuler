@@ -56,4 +56,5 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 050](https://projecteuler.net/problem=050): [java](java/src/Problem050.java)
  * [Problem 051](https://projecteuler.net/problem=051): [ruby](ruby/Problem051.rb) (interesting one!)
  * [Problem 052](https://projecteuler.net/problem=052): [ruby](ruby/Problem052.rb)
- * [Problem 053](https://projecteuler.net/problem=053): [ruby](ruby/Problem053.rb) 
+ * [Problem 053](https://projecteuler.net/problem=053): [ruby](ruby/Problem053.rb)
+ * [Problem 054](https://projecteuler.net/problem=054): [ruby](ruby/Problem054.rb) (probably the most practical problem so far) 
