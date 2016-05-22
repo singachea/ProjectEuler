@@ -61,4 +61,5 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 055](https://projecteuler.net/problem=055): [elixir](elixir/Problem055.exs)
  * [Problem 056](https://projecteuler.net/problem=056): [elixir](elixir/Problem056.exs)
  * [Problem 057](https://projecteuler.net/problem=057): [elixir](elixir/Problem057.exs) (Elixir makes the solution damn elegant for this one!!!)
- * [Problem 058](https://projecteuler.net/problem=058): [elixir](elixir/Problem058.exs) (This recursive is also nice) 
+ * [Problem 058](https://projecteuler.net/problem=058): [elixir](elixir/Problem058.exs) (This recursive is also nice)
+ * [Problem 059](https://projecteuler.net/problem=059): [elixir](elixir/Problem059/Problem059.exs) 
