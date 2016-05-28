@@ -64,3 +64,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 058](https://projecteuler.net/problem=058): [elixir](elixir/Problem058.exs) (This recursive is also nice)
  * [Problem 059](https://projecteuler.net/problem=059): [elixir](elixir/Problem059/Problem059.exs)
  * [Problem 060](https://projecteuler.net/problem=060): [scala](scala/src/Problem060.scala) (work... but seem slow, need to optimize this!) 
+ * [Problem 061](https://projecteuler.net/problem=061): [scala](scala/src/Problem061.scala) (this one is pain in the ass!)
