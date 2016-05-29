@@ -66,3 +66,4 @@ This is pretty much about solving problems in different languages according to m
  * [Problem 060](https://projecteuler.net/problem=060): [scala](scala/src/Problem060.scala) (work... but seem slow, need to optimize this!)
  * [Problem 061](https://projecteuler.net/problem=061): [scala](scala/src/Problem061.scala) (this one is pain in the ass!)
  * [Problem 062](https://projecteuler.net/problem=062): [ruby](ruby/Problem062.rb) (this is tricky one if using brute-force)
+ * [Problem 063](https://projecteuler.net/problem=063): [python](python/Problem063.py)
